@@ -1,7 +1,10 @@
-img {
-  max-width: 30;
-  height:auto;
-  align-items: center;
+.home-container .row-center img {
+    position:absolute;
+    left: 0;
+    right: 0;
+    margin:0 auto;
+    top:50%;
+    transform:translateY(-50%);
 }
 
 
