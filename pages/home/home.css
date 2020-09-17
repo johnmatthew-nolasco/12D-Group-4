@@ -1,8 +1,21 @@
+img {
+  max-width: 30;
+  height:auto;
+  text-align: center;
+}
+
+
 ion-content {
     background: linear-gradient(to right, #1488cc, #2b32b2); 
 }
 
+h1 {
+  text-align: center;
+  color: aliceblue
+}
+
 h2 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: center;
   color: aliceblue
 }
