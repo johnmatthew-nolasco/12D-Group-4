@@ -1,6 +1,6 @@
 img {
-    max-width:3;
-    height: 4;
+    max-width:auto;
+    height: auto;
     display:block;
     margin-left: auto;
     margin-right: auto;
