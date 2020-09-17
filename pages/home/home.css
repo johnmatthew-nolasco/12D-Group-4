@@ -9,12 +9,12 @@ ion-content {
     background: linear-gradient(to right, #1488cc, #2b32b2); 
 }
 
-h1 {
+h2 {
   text-align: center;
   color: aliceblue
 }
 
-h2 {
+h3 {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: center;
   color: aliceblue
